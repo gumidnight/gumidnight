@@ -1,5 +1,5 @@
 # About Me:
-👋 Hi, I’m Alexandros — a Security & Systems Engineer working in the fintech industry.<br>🔐 I’m passionate about infrastructure, automation, and building secure, scalable systems.<br>🚀 Currently exploring scripting, cloud technologies, Linux systems, and IaaS solutions.<br>📍 Based in 🇨🇾 | Always learning. Always building.
+👋 Hi, I’m Alexandros — an Infrastructure Engineer working in the fintech industry.<br>🔐 I’m passionate about infrastructure, automation, and building secure, scalable systems.<br>🚀 Currently exploring scripting, cloud technologies, Linux systems, and IaaS solutions.<br>📍 Based in 🇨🇾 | Always learning. Always building.
 
 
 ## 🌐 Socials:
