@@ -1,7 +1,5 @@
-# About Me:
-👋 Hi, I’m Alexandros,an Infrastructure Engineer working in the fintech industry.<br> I build and maintain scalable environments across Linux, cloud platforms, and IaaS stacks. Strong interest in automation, scripting, <br>infrastructure as code, CI/CD pipelines, and hardened production systems.<br>
-🇨🇾 Based in Cyprus.<br>🚀 
-Continuous optimization > comfort.
+#  About Me:
+👋 Hi, I’m Alexandros — an Infrastructure Engineer working in the fintech industry.<br><br>🔧 I build and maintain scalable environments across Linux, cloud platforms, and IaaS stacks. Strong focus on automation, scripting, infrastructure as code, CI/CD pipelines, and hardened production systems.<br><br>💻 On the side, I develop web applications — building full-stack projects, experimenting with modern frameworks, and turning ideas into production-ready systems.<br><br>🇨🇾 Based in Cyprus.<br>🚀 Continuous optimization > comfort.
 
 
 ## 🌐 Socials:
