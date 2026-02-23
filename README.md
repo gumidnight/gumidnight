@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 👋 Hi, I’m Alexandros,an Infrastructure Engineer working in the fintech industry.<br>⚙️ I build and maintain scalable environments across Linux, cloud platforms, and IaaS stacks. Strong interest in scripting, <br>infrastructure as code, CI/CD pipelines, and hardened production systems.<br>
 🇨🇾 Based in Cyprus.<br>🚀 
 Continuous optimization > comfort.
